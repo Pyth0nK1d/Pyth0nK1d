@@ -27,8 +27,8 @@
 - 🖥️ Pentesting de Infraestructura
 - 📡 Análisis y auditoría de redes
 - 🧨 Explotación de vulnerabilidades
-- 🔐 Hardening de sistemas Linux & Windows
-- 🕵️ OSINT & Recon
+- 🔐 Hardening de aplicaciones web, sistemas Linux y Windows
+- 🕵️ OSINT y Recon
 
 ---
 
@@ -55,10 +55,9 @@
 ## ⚙️ Tecnologías & Herramientas
 
 ### 🛡️ Herramientas Pentesting Infraestructura & Active Directory
-
 <p>
-
   <img src="https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chisel-F39C12?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Enum4linux-444444?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hashcat-FF9900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Impacket-1E90FF?style=for-the-badge" />
@@ -70,12 +69,13 @@
   <img src="https://img.shields.io/badge/Netexec-008080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell%20Empire-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ProxyChains-00FF00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responder-444444?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Rubeus-800080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SharpHound-8B0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SMBClient-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SMBMap-FF4500?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Socat-6666FF?style=for-the-badge" />
 </p>
 
 ### 🌐 Herramientas Pentesting Web
@@ -132,28 +132,56 @@
 ### ⚙️ Herramientas Gestión de Vulnerabilidades & DevSecOps
 
 <p>
-
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bandit-4E9BCD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Brakeman-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DefectDojo-008080?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Dependency%20Check-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Detect-Secrets-2088FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-333333?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadolint-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nikto-1E90FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pylint-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RetireJS-D00000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Semgrep-3178C6?style=for-the-badge&logo=semgrep&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snyk-580F41?style=for-the-badge&logo=snyk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TruffleHog-9400D3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DefectDojo-008080?style=for-the-badge"/>
+</p>
 
+### 📚 Herramientas para documentación ténica (Reporting)
+
+<p>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
+  <img src="https://img.shields.io/badge/Office%20365-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365"/>
+  <img src="https://img.shields.io/badge/Sysreptor-0A3D60?style=for-the-badge&logo=windows&logoColor=white" alt="Sysreptor"/>
+</p>
+
+### 🤖 Herramientas para automatización y optimización de tareas (Inteligencia Artificial)
+<p>
+  <img src="https://img.shields.io/badge/Asistente%20IA-00BFFF?style=for-the-badge&logo=openai&logoColor=white" alt="Asistente IA"/>
+</p>
+
+### ☁️ Plataformas de servicios en la nube (Cloud)
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
 ### 🗣️ Lenguajes de Programación
 
 <p>
-
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -163,9 +191,9 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 </p>
 
 ---
@@ -204,6 +232,9 @@
   </a>
   <a href="mailto:pyth0nk1d@outlook.com">
 	  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white"/>
+	</a>
+  <a href="https://discord.gg/" title="Pyth0nK1d#9070" target="_blank">
+	  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 	</a>
 </p>
 
