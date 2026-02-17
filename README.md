@@ -1,6 +1,6 @@
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/pyth0nk1d/pyth0nk1d/blob/main/banner.png?raw=true"><img src="https://github.com/pyth0nk1d/pyth0nk1d/raw/main/banner.png?raw=true" alt="Banner Pyth0nK1d Ethical Hacker" width="100%" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/pyth0nk1d/pyth0nk1d/blob/master/banner.png?raw=true"><img src="https://github.com/pyth0nk1d/pyth0nk1d/raw/master/banner.png?raw=true" alt="Banner Pyth0nK1d Ethical Hacker" width="100%" style="max-width: 100%;"></a>
 </p>
 <h1 align="center">👨‍💻 David Prieto Montero a.k.a Pyth0nK1d 🐍</h1>
 <h3 align="center">⚔️ Ethical Hacker | Pentester 🧪</h3>
